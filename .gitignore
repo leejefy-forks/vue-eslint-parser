@@ -7,3 +7,6 @@
 /npm-debug.log
 /test.js
 /test/fixtures/espree-v8/node_modules
+
+# npm pack
+/*.tgz
