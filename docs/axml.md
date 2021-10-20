@@ -60,3 +60,7 @@ a:key
 ### 配置节点
 
 `page-meta`
+
+### 其它
+
+`template、component、include、import`
